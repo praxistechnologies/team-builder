@@ -8,7 +8,7 @@ In this project you'll build an app that will keep track of memebers of a team. 
 
 ## Instructions
 
-### Task 1: Project Set Up
+### Task 1: Project Set Up - DONE
 
 - [ ] Create a forked copy of this project.
 - [ ] Clone your OWN version of the repository in your terminal
